@@ -1,4 +1,4 @@
-project "GLFW"
+project "glfw"
 	kind "StaticLib"
 	language "c"
 	location "%{wks.location}/Intermediate/ProjectFiles"
